@@ -1,4 +1,4 @@
-#ifndef _shell_h
+ifndef _shell_h
 #define _shell_h
 
 #include <stdio.h>
