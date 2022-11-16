@@ -1,9 +1,8 @@
-#ifndef _shell_h
-#define _shell_h
+#ifndef _SHELL_H_
+#define _SHELL_H_
 
 #include <stdio.h>
 #include <stdlib.h>
-<<<<<<< HEAD
 #include <signal.h>
 #include <fcntl.h>
 #include <sys/types.h>
@@ -11,9 +10,6 @@
 #include <sys/wait.h>
 #include <unistd.h>
 #include <errno.h>
-=======
-#include <unistd.h>
->>>>>>> 8b2fd42df67d5c6ef0c041c712fb06cc4822851a
 
 #define END_OF_FILE -2
 #define EXIT -3
@@ -25,7 +21,6 @@ char *name;
 /* Global history counter */
 int hist;
 
-<<<<<<< HEAD
 /**
  * struct list_s - A new struct type defining a linked list.
  * @dir: A directory path.
@@ -138,6 +133,3 @@ void help_history(void);
 
 int proc_file_commands(char *file_path, int *exe_ret);
 #endif /* _SHELL_H_ */
-=======
-#endif /* _shell_h*/
->>>>>>> 8b2fd42df67d5c6ef0c041c712fb06cc4822851a
