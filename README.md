@@ -1,4 +1,4 @@
- 0x16. C - Simple Shell
+# 0x16. C - Simple Shell
 
 <details>
 <summary>The Gates of Shell by Spencer Cheng, featuring Julien Barbier</summary>
