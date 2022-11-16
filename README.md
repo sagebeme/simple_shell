@@ -122,8 +122,8 @@ We suggest to implement first the simple case where you expand wildcards in the 
 
 ## Linked in Reference
 
-[Linked In](https://link-url-here.org)
+[Linked In](https://www.linkedin.com/in/sagebeme/)
 
 ### Contact Info:
 
-Git: [Murugi Nthakanio](https://github.com/codebyrugi), [Dennis Nderitu](https://github.com/dennisnderitu254)
+Git: [Sylvia Wangari](https://github.com/slykare), [Ngare Macharia](https://github.com/sagebeme)
