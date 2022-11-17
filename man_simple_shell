@@ -1,4 +1,4 @@
-.TH man 1 "4th November"  "0.1" "simple_shell man page"
+.TH man 1 "14th November"  "0.1" "simple_shell man page"
 
 .SH NAME
 .B simple_shell
@@ -38,4 +38,4 @@ $ ls -l
 Single space required after argument.
 
 .SH AUTHOR
-Murugi Nthakanio and Dennis Nderitu
+Sylvia Wangari and Ngare Macharia
